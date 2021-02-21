@@ -1,6 +1,9 @@
 # Flash Chat ⚡️
 
-Create a modern messaging app where users can sign up and log in to chat.
+Built using **Flutter** and **Firebase**.<br/>
+A modern messaging app where users can sign up and log in to chat.
+
+![sign_log](/ressources/flash1.jpg) ![content](/ressources/flash2.jpg)
 
 ## Packages:
 
@@ -25,4 +28,10 @@ Create a modern messaging app where users can sign up and log in to chat.
 - Learn to use ListViews to build scrolling views.
 - How to use Firebase Cloud Firestore to store and retrieve data on the fly.
 
-## obelouch 1337
+## Owner
+
+- Oussama Belouche 1337
+
+#
+[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
